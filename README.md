@@ -25,13 +25,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="react" width="40" height="40"/>
   </a>
   
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" title="Angular" alt="angular" width="40" height="40"/>
-  </a>
-  
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg" title="Vue" alt="vue" width="40" height="40"/>
-  </a>
   
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="nodejs" width="40" height="40"/>
@@ -76,17 +69,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" title="ESLint" alt="eslint" width="40" height="40"/>
   </a>
   
-  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudinary/cloudinary-original.svg" title="Cloudinary" alt="cloudinary" width="40" height="40"/>
-  </a>
-  
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub Actions" alt="githubactions" width="40" height="40"/>
   </a>
   
-  <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" title="Render" alt="render" width="40" height="40"/>
-  </a>
 </p>
 
 <h3 align="left">Methodologies I follow:</h3>
