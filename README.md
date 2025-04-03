@@ -12,7 +12,7 @@
 
 <ul>
   <li>
-    🔭 I'm currently working on <strong>Finderr</strong>, a <strong>marketplace platform</strong> built using <strong>React, Node.js, Socket.io, JavaScript, HTML5, CSS3, SCSS</strong> and more!
+    🔭 I'm currently working on <strong>Finderr</strong>, a <strong>marketplace platform</strong> built using <strong>React, Node.js, Socket.io, JavaScript, TypeScript, HTML5, CSS3, SCSS</strong> and more!
   </li>
   <li>
     🌱 I'm skilled in <strong>React, Angular, Vue, Node.js, Express, MongoDB, Websockets</strong> and more!
