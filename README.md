@@ -86,7 +86,7 @@
 <ul>
   <li>RESTful API Design</li>
   <li>FASTAPI Design</li>
-  <li>Webs Continuous Integration</li>
+  <li>Continuous Integration</li>
   <li>Cloud Deployment</li>
   <li>Agile</li>
 </ul>
