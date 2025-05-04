@@ -12,10 +12,13 @@
 
 <ul>
   <li>
-    🔭 I'm currently working on <strong>Finderr</strong>, a <strong>marketplace platform</strong> built using <strong>React, Node.js, Socket.io, JavaScript, TypeScript, HTML5, CSS3, SCSS</strong> and more!
+    🔭 I'm currently working on <strong>Tasks GPT</strong>, a  smart, AI-powered to-do list application that integrates natural language processing with GenAI to help users manage tasks effortlessly. built using <strong>python, FastAPI, Docker,PostgreSQL,  Pytest, SQLAlchemy</strong> and more!
   </li>
   <li>
-    🌱 I'm skilled in <strong>React, Angular, Vue, Node.js, Express, MongoDB, Websockets</strong> and more!
+    🔭 I've also worked on <strong>Finderr</strong>, a <strong>marketplace platform</strong> built using <strong>React, Node.js, Socket.io, JavaScript, TypeScript, HTML5, CSS3, SCSS</strong> and more!
+  </li>
+  <li>
+    🌱 I'm skilled in <strong>React, Angular, Vue, Node.js, Express, MongoDB, Websockets, python, FastAPI, Docker,PostgreSQL,  Pytest, SQLAlchemy</strong> and more!
   </li>
 </ul>
 
@@ -41,6 +44,10 @@
   <a href="https://socket.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" title="Socket.io" alt="socketio" width="40" height="40"/>
   </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
 </p>
 
 <h3 align="left">Tools I use:</h3>
@@ -78,6 +85,7 @@
 <h3 align="left">Methodologies I follow:</h3>
 <ul>
   <li>RESTful API Design</li>
+  <li>FASTAPI Design</li>
   <li>Webs Continuous Integration</li>
   <li>Cloud Deployment</li>
   <li>Agile</li>
